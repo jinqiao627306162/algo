@@ -7,17 +7,17 @@ jdk11
 maven 3.5+
 
 # project structure
---application
+application
   demo shows how to run the algo
---data
+data
   generagte unit test cases
---functioninterface
+functioninterface
   function interface (jdk8 feature)
---sitbesides
+sitbesides
   algo to remove words sit besides
---test
+test
   use a base implemention to  test and verify the final version of algo
---util
+util
   a util class to afford help
 # class graph
 ![image](https://github.com/jinqiao627306162/algo/assets/35721902/3edcab4e-7df2-4457-b796-45aff70ac116)
