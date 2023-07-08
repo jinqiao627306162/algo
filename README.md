@@ -29,6 +29,9 @@ RemoveSitbesidesByDoublePointer is the final algo
 # algo design
 ![image](https://github.com/jinqiao627306162/algo/assets/35721902/d10f0a78-a347-4fbb-b506-452c3e54f9af)
 
+![image](https://github.com/jinqiao627306162/algo/assets/35721902/0b5f7bab-2245-4ffc-ae20-2e004037c71e)
+   
+
 
 
 
